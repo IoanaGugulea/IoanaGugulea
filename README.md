@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IoanaGugulea
 - 👀 I’m interested in coding, reading, painting.
 - 🌱 I’m currently learning C++, Julia, MATLAB.
-- 💞️ I’m looking to collaborate on many projects, that will reach my goals.
+- 💞️ I’m looking to collaborate on many projects, to reach my goals and to exceed my own limits.
 
 
 <!---
